@@ -1,7 +1,8 @@
 <h1>📃A propos de moi</h1>
-<p>Je suis Plunder et apparemment un modo Discord. Je fais du Hacking et du dev. J'ai actuellement 17 ans si vous vous posiez la question. Je fais des vidéos sur YouTube avec ce même pseudo. J'ai pas grand chose d'autre à dire ici mais t'es flex a lire jusqu'au bout. </p>
+<p>Je suis Plunder un étudiant en école d'Ingenieurie Informatique et futur Ingenieur en Cybersécurité</p>
 <h1>🔧 Mes projets</h1>
-<p>En trouver x)</p>
+<p>Skycy 🚀</p>
+<p>Datura 🌸</p>
 <h1>💻Mes langages de programmation</h1>
 <p>Je vais faire comme les pros de GitHub à vous montrer les différents langages avec lesquels je travaille (ça fait très pro).</p>
 <p float="left">
